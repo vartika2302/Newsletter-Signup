@@ -1,0 +1,25 @@
+.msg{
+    height: 400px;
+}
+
+.msg{
+    height: 50%;
+    width: 100%;
+    margin-top:0;
+  }
+  
+  .result{
+    padding: 5px 10px;
+    text-align: left;
+  }
+  
+  .content{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  .btn{
+    margin-left: 10px;
+    margin-top: 20px;
+  }
